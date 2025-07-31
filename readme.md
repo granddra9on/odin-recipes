@@ -1,0 +1,1 @@
+This is my first attempt creating a website using lessons learned from The Odin Project.
